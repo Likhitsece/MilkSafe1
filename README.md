@@ -179,6 +179,6 @@ https://github.com/user-attachments/assets/ed3032ad-ff12-4b73-a92d-7d604d7b6702
 
 ## Contact Information
 
-- Mohan Raj S – [likhit934s@gmail.com](mailto:likhit934s@gmail.com)  
+- Likhit.S– [likhit934s@gmail.com](mailto:likhit934s@gmail.com)  
 - Institution: Sri Eshwar College of Engineering  
 - Duration: Jan – May 2025
