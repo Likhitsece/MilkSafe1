@@ -164,8 +164,8 @@ https://github.com/user-attachments/assets/ed3032ad-ff12-4b73-a92d-7d604d7b6702
 
 ## Contributors
 
-- Mohan Raj S  
-- Likhit S  
+- Likhit S 
+- Mohan Raj S   
 - Manishankar M  
 - Naveensurya V  
 
@@ -179,6 +179,6 @@ https://github.com/user-attachments/assets/ed3032ad-ff12-4b73-a92d-7d604d7b6702
 
 ## Contact Information
 
-- Mohan Raj S – [mohanraj.s2023ece@gmail.com](mailto:mohanraj.s2023ece@gmail.com)  
+- Mohan Raj S – [likhit934s@gmail.com](mailto:likhit934s@gmail.com)  
 - Institution: Sri Eshwar College of Engineering  
 - Duration: Jan – May 2025
